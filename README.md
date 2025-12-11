@@ -34,7 +34,10 @@ I'm a software development student aspiring to become a **Cloud Engineer**. Pass
 ---
 
 ## 🌐 Connect With Me
-- 🔗 LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-marcos-freire-castroengineering/)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-marcos-freire-castroengineering/
+- ▶️ YouTube: https://www.youtube.com/@CastroEngineering
+- 🐦 X:
+- 📩 Telegram: @CastroEngineering
 - 🌎 Portfolio Website (coming soon!)  
 
 ---
