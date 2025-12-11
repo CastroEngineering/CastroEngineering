@@ -1,6 +1,6 @@
 # João Marcos Freire de Castro
 
-** Software development student **
+** "Software development student" **
 
 I'm a software development student aspiring to become a cloud engineering
 
