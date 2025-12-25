@@ -1,15 +1,15 @@
 # João Marcos Freire de Castro
 
-**Software Development Student**
+**Professional overview**
 
-I'm a software development student aspiring to become a **Cloud Engineer**. Passionate about building efficient systems, learning modern technologies, and improving my problem-solving skills through real-world projects.
+Aspiring Cloud Developer with strong Programming Foundations & Cloud-Native Focus, with practical experience in C++, Node.js, and MongoDB, developing projects that apply object-oriented design, data structures, and algorithms. Built applications such as a Protein Sequences Parser (C++), Media Collection Manager (C++ OOP with STL), and a Car Booking System (Node.js, Express, MongoDB). Familiar with system administration and project planning, while actively learning cloud-native technologies. Recognized for problem-solving, adaptability, and delivering efficient, in very collaborative and fast-paced 
 
 ---
 
 ## 🚀 About Me
 - 🎓 Currently studying software development  
-- ☁️ Interested in cloud computing, DevOps, and backend engineering  
-- 💻 Enjoy working with C++, JavaScript, SQL, and Linux environments  
+- ☁️ Interested in cloud computing, DevOps, and system administration  
+- 💻 Enjoy working with JavaScript, SQL, and Linux environments  
 - 📚 Always learning and expanding my knowledge in computer science  
 
 ---
