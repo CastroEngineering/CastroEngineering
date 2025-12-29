@@ -36,6 +36,6 @@ Aspiring Cloud Developer with strong Programming Foundations & Cloud-Native Focu
 ## 🌐 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/joao-marcos-freire-castroengineering/
 - ▶️ YouTube: https://www.youtube.com/@CastroEngineering
-- 🐦 X:
+- 🐦 X: @Castro_Engineer
 - 📩 Telegram: @CastroEngineering
 - 🌎 Portfolio Website (coming soon!)  
